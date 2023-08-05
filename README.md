@@ -36,6 +36,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-or
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Networkx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />
+<img align="left" alt="ScikitLearn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 <br>
 
