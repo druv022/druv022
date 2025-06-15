@@ -4,73 +4,67 @@ Researcher by heart ❤ and Engineer by mind 👨🏻‍💻
 
 ### 🔬 Tools at my disposal 🛠️
 #### Language:
-[<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://www.python.org/)
+[<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://www.python.org/)
 
 <br>
 
 #### Platforms:
-[<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />](https://www.linux.org/)
-[<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](https://www.docker.com/)
-[<img align="left" alt="GoogleCloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />](https://cloud.google.com/?hl=en)
+[<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />](https://www.linux.org/)
+[<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](https://www.docker.com/)
+[<img align="left" alt="GoogleCloud" title="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />](https://cloud.google.com/?hl=en)
 
 <br>
 
 #### Frameworks:
-[<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />](https://pytorch.org/)
-[<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>](https://www.tensorflow.org/)
-
+[<img align="left" alt="Pytorch" title="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />](https://pytorch.org/)
+[<img align="left" alt="Tensorflow" title="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>](https://www.tensorflow.org/)
 
 <br>
 
 #### Version Control:
-[<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
-[<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />](https://about.gitlab.com/)
-[<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
+[<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
+[<img align="left" alt="GitLab" title="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />](https://about.gitlab.com/)
+[<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
 
 <br>
 
 #### Frequently used Packages:
-[<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />](https://numpy.org/)
-[<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />](https://opencv.org/)
-[<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />](https://pandas.pydata.org/)
-[<img align="left" alt="Networkx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" />](https://networkx.org/)
-[<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />](https://matplotlib.org/)
-[<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />](https://streamlit.io/)
-[<img align="left" alt="ScikitLearn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+[<img align="left" alt="Numpy" title="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />](https://numpy.org/)
+[<img align="left" alt="OpenCV" title="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />](https://opencv.org/)
+[<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />](https://pandas.pydata.org/)
+[<img align="left" alt="Networkx" title="NetworkX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" />](https://networkx.org/)
+[<img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />](https://matplotlib.org/)
+[<img align="left" alt="Streamlit" title="Streamlit" width="30px" style="padding-right:10px;" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />](https://streamlit.io/)
+[<img align="left" alt="ScikitLearn" title="Scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+[<img align="left" alt="LlamaIndex" title="LlamaIndex" width="30px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/llamaindex-color.png" />](https://www.llamaindex.ai/)
+[<img align="left" alt="LangChain" title="LangChain" width="30px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" />](https://https://www.langchain.com/)
+[<img align="left" alt="LangGraph" title="LangGraph" width="30px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png" />](https://www.langchain.com/langgraph)
+[<img align="left" alt="HuggingFace" title="HuggingFace" width="30px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/huggingface-color.png" />](https://huggingface.co/)
 
 <br>
 
 #### Coding Environments:
-[<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
-[<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />](https://jupyter.org/)
-[<img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />](https://in.mathworks.com/)
+[<img align="left" alt="VSCode" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)[<img align="left" alt="GitHub Copilot" title="GitHub Copilot" width="30px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/githubcopilot.png" />](https://github.com/features/copilot)
+[<img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />](https://jupyter.org/)
+[<img align="left" alt="Matlab" title="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />](https://in.mathworks.com/)
+
 
 <br>
 
 #### Once upon a time:
-[<img align="left" alt="C#" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
-[<img align="left" alt="HTML" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://html.spec.whatwg.org/multipage/)
-[<img align="left" alt="PHP" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://www.php.net/)
-[<img align="left" alt="Bitbucket" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />](https://bitbucket.org/)
+[<img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
+[<img align="left" alt="HTML" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://html.spec.whatwg.org/multipage/)
+[<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://www.php.net/)
+[<img align="left" alt="Bitbucket" title="Bitbucket" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />](https://bitbucket.org/)
 
 <br>
 
 #### Others:
-[<img align="left" alt="Latex" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />](https://www.overleaf.com/)
-[<img align="left" alt="Confluence" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />](https://www.atlassian.com/software/confluence)
-[<img align="left" alt="Jira" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />](https://www.atlassian.com/software/jira)
-[<img align="left" alt="Medium" width="30px" style="padding-right:10px;" 
-src="https://img.icons8.com/?size=512&id=XVNvUWCvvlD9&format=svg" />](https://medium.com/)
+[<img align="left" alt="Latex" title="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />](https://www.overleaf.com/)
+[<img align="left" alt="Confluence" title="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />](https://www.atlassian.com/software/confluence)
+[<img align="left" alt="Jira" title="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />](https://www.atlassian.com/software/jira)
+[<img align="left" alt="Medium" title="Medium" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354057/medium-icon.svg" />](https://medium.com/)
 <br>
 
 
